@@ -1,6 +1,6 @@
 # Project Overview
 
-_“The aim of medicine is to prevent disease and prolong life; the ideal of medicine is to eliminate the need of a physician.” - William J. Mayo, American Physician and surgeon and one of the 7 founders of the Mayo Clinic._
+Vital is an AI powered nutritional recommendation website___
 
 ## Motivation
 The cost of healthcare has been on the rise in this day and age, and your health has been the most valuable asset you own. Eating healthy and having a good sleep schedule is effective for preventing illness, but as people get busier, it has become more difficult to maintain your health. That is why it is essential for people to take dietary supplements. But how do people know what the best supplements are for them? They can ask a doctor, but the doctor might miss some information. 
